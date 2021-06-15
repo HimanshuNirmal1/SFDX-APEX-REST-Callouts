@@ -1,7 +1,7 @@
 # Salesforce DX Project: REST APEX CALLOUTS
 
--Performed a callout to receive data from an external service.
--Performed a callout to send data to an external service.
+-Performed a callout to receive data from an external service: (HEROKU 
+-Performed a callout to send data to an external service: HEROKU
 -Tested callouts by using mock callouts.
 
 ## Read All About It
