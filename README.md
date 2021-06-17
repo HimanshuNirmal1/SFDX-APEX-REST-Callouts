@@ -1,13 +1,13 @@
 # Salesforce DX Project: REST APEX CALLOUTS
 
--Performed a callout to receive data from an external service: HEROKU 
+- Performed a callout to receive data from an external service: HEROKU 
 
--Performed a callout to send data to an external service: HEROKU
+- Performed a callout to send data to an external service: HEROKU
 
--Tested callouts by using mock callouts.
+- Tested callouts by using mock callouts.
 
 
--Path to the APEX classes: /force-app/main/default/classes/
+- Path to the APEX classes: /force-app/main/default/classes/
 
 ## Read All About It
 
